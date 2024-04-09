@@ -1,4 +1,4 @@
 # trial
 learning how to use github
 <br>
-Author - Vraj Priyadarshi
+Author - Vraj Priyadarshi(sniper god)
